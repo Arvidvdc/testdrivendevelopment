@@ -1,3 +1,3 @@
 exports.default = (req,res)=>{
-    res.send("Hallo")
+    res.render("./default/home");
 };

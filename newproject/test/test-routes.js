@@ -10,6 +10,6 @@ describe("get route '/'", ()=> {
         .end(function(err,res){
             if (err) done(err);
             done();
-        })
-    })
+        });
+    });
 });
