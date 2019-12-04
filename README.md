@@ -18,3 +18,8 @@ Thank you mr. Morelli.
 * Writing Test with Supertest and Mocha for Expressjs Routes [Writing Test with Supertest and Mocha for Expressjs Routes](https://medium.com/@ehtemam/writing-test-with-supertest-and-mocha-for-expressjs-routes-555d2910d2c2) from [https://medium.com/](https://medium.com/).
 
 Thank you mr. Ehtemam
+
+###### Webshop testing
+For this I've used the Whisky Webshop files from the beard-squad. See their repository [here](https://github.com/Arvidvdc/whiskywebshop).
+
+Thanks to Edwin Boersema and Bennie koops
