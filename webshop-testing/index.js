@@ -1,8 +1,8 @@
 const   express               = require("express"),
         app                   = express(),
         mongoose              = require("mongoose"),
-        bodyParser            = require("body-parser"), 
-        seedDB                = require("./seeds");
+        bodyParser            = require("body-parser"); 
+        // seedDB                = require("./seeds");
 
 const   indexRoutes           = require("./routes/index"),
         productsRoutes        = require("./routes/products"),
@@ -39,3 +39,4 @@ app.use("/bestellen", orderRoutes);
 
 // listener
 app.listen(process.env.PORT, process.env.IP, ()=>console.log("Whisky Webshop started on port " + process.env.PORT));
+module.exports = app;
