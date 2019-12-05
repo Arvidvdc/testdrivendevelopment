@@ -23,4 +23,8 @@ Thank you mr. Ehtemam
 For this I've used the Whisky Webshop files from the beard-squad. See their repository [here](https://github.com/Arvidvdc/whiskywebshop).
 
 Thanks to Edwin Boersema and Bennie koops
->> Testing halted <<
+<< Testing halted >>
+
+###### Newproject testing
+In this section I've tried to re-build the webshop because I encounterd errors during the Webshop testing. This way I can learn and discover how and why the tests didn't work.
+<< Testing paused because I've found new information. >>
